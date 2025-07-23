@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jaeseong Ju / homepage"
+title                    : "Jaeseong Ju / Snuppy"
 title_separator          : "-"
 name                     : &name "Jaeseong Ju"
 description              : &description "personal description"
 url                      : https://cg3731.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "cg3731/cg3731.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,20 +25,20 @@ author:
   avatar           : "profile.png"
   name             : "Jaeseong Ju"
   pronouns         : # example: "she/her"  
-  bio              : "M.S student in Data Science and HCI @ SNU GSDS"
+  bio              : "M.S student in Data Science @ SNU GSDS"
   location         : "Seoul, Korea"
-  employer         : "Red Brick University"
+  employer         : 
   uri              : # URL
   email            : "cg3731@snu.ac.kr" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
